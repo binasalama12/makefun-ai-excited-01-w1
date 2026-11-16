@@ -15,4 +15,5 @@ copyFileSync(source, target);
 const data = readFileSync(target);
 const digest = createHash("sha256").update(data).digest("hex");
 console.log(`copied entry.png -> ${target}`);
+console.log(`bytes: ${data.length}`);
 console.log(`sha256: ${digest}`);

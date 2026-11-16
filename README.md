@@ -6,4 +6,11 @@
 
 A humpback whale caught at the exact second of its breach — shot from below the waterline at golden hour, so the frame is split in two: burning orange sky above, deep teal water below, and forty tons of whale bursting diagonally through both at once. Water is still sheeting off its pleated throat and long pectoral fins, frozen mid-cascade and glittering in the low sun. Down in the lower third, tiny against all of that mass, a lone scuba diver hangs in the blue and looks straight up. That diver is the whole story: without them the whale is just big; with them, you feel how big.
 
-This is not an explosion or a firework. It is the moment the ocean itself stands up — and one small human gets to watch it happen from underneath. `main.ts` copies `entry.png` to an output path unchanged and prints its SHA-256.
+This is not an explosion or a firework. It is the moment the ocean itself stands up — and one small human gets to watch it happen from underneath. `main.ts` copies `entry.png` to an output path unchanged and prints its byte count and SHA-256.
+
+## Why it excites
+
+- **Jolt:** the whale's head breaks the surface dead-center against a burning sky — the eye, the pleats, the barnacled fins all hit in the first half-second.
+- **Surprise:** it is a split-level breach, half in the air and half still underwater, with the diver suspended below — not the usual side-on stock breach shot.
+- **Momentum:** the body drives diagonally corner-to-corner and the fins reach past the frame edges, so the image feels too large to be contained.
+- **Thumbnail punch:** at 300px it still reads instantly — one huge dark diagonal, orange sky, teal water, one tiny human silhouette.
